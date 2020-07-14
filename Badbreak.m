@@ -1,3 +1,4 @@
+%This the snippet to illustrate break statement%
 for ii=1:size(A,1)
     for jj=1:size(A,2)
         if A(ii,jj) <= 90
