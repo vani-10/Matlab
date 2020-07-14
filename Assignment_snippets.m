@@ -27,6 +27,7 @@ marathon=D/T
 %decreasing orders and save it to variable even
 odds=1:2:100
 evens=100:-2:2
+
 %Given matrix A,assign the second column of A to variable v.Afterwards
 %change each element of the last row of A to 0
 A = [1:5; 6:10; 11:15; 16:20];
